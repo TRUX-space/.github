@@ -18,7 +18,6 @@ If you are interested in joining TRUX, please contact us using [k.me Discord](ht
 ## Links
 [Site](https://trux.space/)- Our website. You can find anything here.
 
-[k.me Patreon](https://patreon.com/karriganme)
 
 [k.me Discord](https://discord.gg/9Vas7YR5PB) - The best and most prefered way to contact us. 
 Here you can see all releases, updates and news. 
