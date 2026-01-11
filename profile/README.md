@@ -1,17 +1,19 @@
 <h1>TRUX.space</h1>
-https://avatars.githubusercontent.com/u/254331965?s=200&v=4
+<br>
+<img width="544" height="104" alt="no_bg-rt-800x200" src="https://github.com/user-attachments/assets/d6bfdf4e-325d-4cb6-b4be-ef8aec015e65" /><br>
+<br>
 
-Owned by <a href="https://github.com/KmeKerrigan">Kerrigan</a>
-Project made by <a href="https://github.com/KarriganMe">karrigan.me</a>
+Owned by <a href="https://github.com/KmeKerrigan">Kerrigan</a><br>
+Project made by <a href="https://github.com/KarriganMe">karrigan.me</a><br>
 
 ## About
 TRUX is a custom internet protocol. Works like HTTP, but on TLSv1.3+TCP.<br>
-(WIP) We have a Certificate Autority, DNS and Domain Resolver (CA, DNS, DR).
-As a hoster, you can get domain and key on our <a href="https://trux.space">Website</a>.
-If you are a regular user, just install our <a href="https://trux.space">browser</a> based on Chromium.
+(WIP) We have a Certificate Autority, DNS and Domain Resolver (CA, DNS, DR).<br>
+As a hoster, you can get domain and key on our <a href="https://trux.space">Website</a>.<br>
+If you are a regular user, just install our <a href="https://trux.space">browser</a> based on Chromium.<br>
 
 We are looking for new members!<br>
-If you are interested in joining TRUX, please contact us using [k.me Discord](https://discord.gg/9Vas7YR5PB).
+If you are interested in joining TRUX, please contact us using [k.me Discord](https://discord.gg/9Vas7YR5PB).<br>
 
 ## Links
 [Site](https://trux.space/)- Our website. You can find anything here.
